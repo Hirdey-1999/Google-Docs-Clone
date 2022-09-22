@@ -1,1 +1,1 @@
-const host = 'http://localhost:3001';
+const host = 'http://13.113.206.184:3001';
